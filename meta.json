@@ -1,0 +1,22 @@
+{
+  "name": "happie",
+  "displayName": "happie",
+  "version": "1.0",
+  "type": "persona-skill",
+  "tags": [
+    "persona",
+    "roleplay",
+    "zh-CN",
+    "desensitized"
+  ],
+  "description": "某高职院校热能动力类大二学生的虚构人格，含说话风格、条数规则、时间感与边界。",
+  "license": "MIT",
+  "desensitized": true,
+  "files": [
+    "SKILL.md",
+    "persona.md",
+    "README.md",
+    "docs/design.md"
+  ],
+  "created": "2026-11-19"
+}
