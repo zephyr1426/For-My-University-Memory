@@ -114,4 +114,4 @@ role.injectEveryNWakes，每几次才重新注入一次人格——因为我发�
 PS:此项目依赖三个开源项目
 Snowluma：https://github.com/TomyJan/SnowLuma
 qqbridge：https://github.com/Derpyu520/qq-bridge
-此项目创建的角色卡来源为ex-skill：https://github.com/titanwings/ex-skill
+此项目创建的角色卡来源为前任.skill：https://github.com/perkfly/ex-skill
