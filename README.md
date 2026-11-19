@@ -110,3 +110,8 @@ role.injectEveryNWakes，每几次才重新注入一次人格——因为我发�
 —— 一个学习不好、不怎么会写代码、也不太会说话的人
 
 2026 年 10月
+
+PS:此项目依赖三个开源项目
+Snowluma：https://github.com/TomyJan/SnowLuma
+qqbridge：https://github.com/Derpyu520/qq-bridge
+此项目创建的角色卡来源为ex-skill：https://github.com/titanwings/ex-skill
